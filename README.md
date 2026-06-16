@@ -1,4 +1,4 @@
-# Student Management App
+# Student Management App Styled
 
 Mini JEE CRUD project using:
 
